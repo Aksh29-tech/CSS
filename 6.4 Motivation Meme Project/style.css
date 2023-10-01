@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+div{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 8%;
+}
+h1{
+    text-transform: uppercase;
+}
+.txt-algn{
+    text-align: center;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+}
